@@ -7,6 +7,8 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 300+
 - [outred.fun](https://outred.fun)
 - [outred.org](https://outred.org)
+- [outred.dev](https://outred.dev)
+- [outreds.world](https://outreds.world/)
 ## nate-games
 190+
 - [nate-games.github.io](https://nate-games.github.io)
