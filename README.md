@@ -44,6 +44,8 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 ## SHS
 100+ Games
 - [shsgames.github.io](https://shsgames.github.io)
-- [shs.klj2.repl.co](https://shs.klj2.repl.co/)
+- [shsgames.herokuapp.com](https://shsgames.herokuapp.com)
+- [shs-games.herokuapp.com](https://shs-games.herokuapp.com)
+- [shsg.herokuapp.com](https://shsg.herokuapp.com)
 ### Other
 - http://abc6782.github.io
