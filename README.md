@@ -43,6 +43,7 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 
 ## SHS
 100+ Games
+- [shsgames.github.io](https://shsgames.github.io)
 - [shs.klj2.repl.co](https://shs.klj2.repl.co/)
 ### Other
 - http://abc6782.github.io
