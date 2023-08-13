@@ -1,11 +1,12 @@
 # Unblocked Links
-by nate-games since Deus-Scissuras rejected my Pull request I made my own.
-(most to least) BEST OF BEST
+All links are up to date
+(most to least)
 
 You can use [translate.google.com](https://translate.google.com/) to unblock any webpage, simply paste a url.
 ## OutRed
 300+
-- [outred.fun](https://outred.fun/)
+- [outred.fun](https://outred.fun)
+- [outred.org](https://outred.org)
 ## nate-games
 190+
 - [nate-games.github.io](https://nate-games.github.io)
