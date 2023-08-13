@@ -47,7 +47,3 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 - [shs.klj2.repl.co](https://shs.klj2.repl.co/)
 ### Other
 - http://abc6782.github.io
-- https://testaccount335.github.io/Unblocked-Fun-School-Games/
-- https://nativegms.netlify.app
-- https://exploits.pages.dev/
-- https://8lat.github.io/orbitgames/
