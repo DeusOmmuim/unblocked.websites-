@@ -4,32 +4,32 @@ All links are up to date
 
 You can use [translate.google.com](https://translate.google.com/) to unblock any webpage, simply paste a url.
 ## OutRed
-300+
+300+ Games
 - [outred.fun](https://outred.fun)
 - [outred.org](https://outred.org)
 - [outred.dev](https://outred.dev)
 - [outreds.world](https://outreds.world/)
 ## nate-games
-190+
+190+ Games
 - [nate-games.github.io](https://nate-games.github.io)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 - [learn-science.vercel.app](https://learn-science.vercel.app)
 - [math-edu.vercel.app](https://math-edu.vercel.app)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev)
 ## Mathgames66
-170+
+170+ Games
 - https://mathgames66.github.io/
 - https://mathgames67.github.io/
 - https://mathgames68.github.io/
 
 ## Interstellar
-160+
+160+ Games
 - [goarmy.us.to](https://goarmy.us.to/)
 - [login.algebraxyz.com](https://login.algebraxyz.com)
 - [twagner-25-onrender.onrender.com](https://twagner-25-onrender.onrender.com/)
 - [yummyfood-tk.vercel.app](https://yummyfood-tk.vercel.app/)
 ## Native Games
-100+
+100+ Games
 - [nativegames.net](https://nativegames.net)
 - [bidoofery.github.io/nativegames/](https://bidoofery.github.io/nativegames/)
 - [nativegames.netlify.app](https://nativegames.netlify.app)
@@ -43,12 +43,9 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 - https://bidoofery.github.io/nativegames/
 
 ## SHS
-100+
+100+ Games
 - [shs.klj2.repl.co](https://shs.klj2.repl.co/)
 ### Other
-
-Works:
-
 - http://abc6782.github.io
 - https://testaccount335.github.io/Unblocked-Fun-School-Games/
 - https://nativegms.netlify.app
