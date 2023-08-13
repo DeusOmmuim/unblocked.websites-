@@ -30,6 +30,7 @@ RIP 3kh0
 - [learn-science.vercel.app](https://learn-science.vercel.app)
 - [math-edu.vercel.app](https://math-edu.vercel.app)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev)
+- View [repository](https://github.com/nate-games/nate-games.github.io#readme)
 ## Mathgames66
 170+ Games
 - [mathgames66.github.io](https://mathgames66.github.io)
