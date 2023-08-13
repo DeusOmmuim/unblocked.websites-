@@ -18,9 +18,9 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 - [cf-nate.pages.dev](https://cf-nate.pages.dev)
 ## Mathgames66
 170+ Games
-- https://mathgames66.github.io/
-- https://mathgames67.github.io/
-- https://mathgames68.github.io/
+- [mathgames66.github.io](https://mathgames66.github.io)
+- [mathgames67.github.io](https://mathgames67.github.io)
+- [mathgames68.github.io](https://mathgames68.github.io)
 
 ## Interstellar
 160+ Games
@@ -31,16 +31,15 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 ## Native Games
 100+ Games
 - [nativegames.net](https://nativegames.net)
-- [bidoofery.github.io/nativegames/](https://bidoofery.github.io/nativegames/)
 - [nativegames.netlify.app](https://nativegames.netlify.app)
+- [undifined.tk](https://www.undifined.tk/)
+- [nativegms.netlify.app](https://nativegms.netlify.app/)
 - [coolgames.vercel.app](https://coolgames.vercel.app)
 - [coolgames1.vercel.app](https://coolgames1.vercel.app)
 - [coolgames2.vercel.app](https://coolgames2.vercel.app)
 - [coolgames3.vercel.app](https://coolgames3.vercel.app)
 - [coolgames4.vercel.app](https://coolgames4.vercel.app)
 - [coolgames5.vercel.app](https://coolgames5.vercel.app)
-- https://undifined.tk
-- https://bidoofery.github.io/nativegames/
 
 ## SHS
 100+ Games
