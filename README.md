@@ -1,10 +1,11 @@
-# Unblocked Links
+## Unblocked Links
+Inspired by [**Deus-Scissuras**/Unblocked-Games-Links
+](https://github.com/Deus-Scissuras/Unblocked-Games-Links)
+
 All links are up to date
 (most to least)
 
 You can use [translate.google.com](https://translate.google.com/) to unblock any webpage, simply paste a url.
-
-RIP 3kh0
 ## Radon-Games
 300+
 - [radon.games](https://radon.games)
