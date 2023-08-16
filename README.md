@@ -31,7 +31,6 @@ You can use [translate.google.com](https://translate.google.com/) to unblock any
 - [learn-science.vercel.app](https://learn-science.vercel.app)
 - [math-edu.vercel.app](https://math-edu.vercel.app)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev)
-- [64mssn-5000.csb.app](https://64mssn-5000.csb.app)
 - View [repository](https://github.com/nate-games/nate-games.github.io#readme)
 ## Mathgames66
 170+ Games
